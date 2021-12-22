@@ -1,28 +1,8 @@
-	D
-	C
-C
-C
-	A#modificando READM
-A
-						C
-	C
+# Repositorio con mis ejercicios del curso Tecnicas de Programacion Cientifica - UNQ
+---
 
-	B
+# modificando README.md
 
-B!
-
-
-	B
-B
-B
-B
-B
-B
-B
-B
-B
-
-B
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
